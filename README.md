@@ -1,4 +1,4 @@
 # Demo tutorial
 
-random dolog itt
+random dolog itt!
 
